@@ -1,0 +1,28 @@
+# 编译产物
+*.apk
+*.apk.idsig
+*.dex
+*.class
+compiled/
+classes/
+dex/
+gen/
+base.apk
+unaligned.apk
+aligned.apk
+
+# 备份
+*.bak
+*.bak_*
+*.orig
+
+# IDE
+.idea/
+*.iml
+.gradle/
+build/
+local.properties
+
+# 系统
+.DS_Store
+Thumbs.db
